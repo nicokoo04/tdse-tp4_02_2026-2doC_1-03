@@ -1,3 +1,16 @@
+# tdse-tp4_2026-2doC_1-03
+# FIUBA - Electrónica - Taller de Sistemas Embebidos - Trabajo Práctico N°: 4 - PWM
+
+
+# FIUBA - Electrónica - Taller de Sistemas Embebidos
+## Trabajo Práctico N°: 4 - PWM
+### 2026-2doC - 1-03
+### Responsable de la entrega:
+| Padrón | Apellidos, Nombres | Fecha | Deadline |
+| :----- | :--------------------- | :------: | :-------: |
+| 113609 | Koo, Nicolás Uriel | 21/10/2026 | Semana 10 |
+
+
 # tdse-tp4-pwm
 
 1. Forkear el repositorio y abrir el proyecto en STM32CubeIDE
