@@ -1,0 +1,4 @@
+El periodo varía, va de aproximadamente 250us a 500us. 
+Pero el duty cycle se mantiene fijo al 50%.
+
+Aunque varía el periodo el duty cycle se mantiene fijo por lo que el led mantiene su nivel de brillo.

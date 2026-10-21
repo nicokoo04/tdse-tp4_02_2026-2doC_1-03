@@ -1,0 +1,3 @@
+Período 1ms y no se modifica.
+duty cycle= Ton/Toff. Si se va modificando.
+El brillo del led varía según el duty cycle. Si el duty cycle es alto brilla mucho, si el duty cycle es muy bajo o 0 se apaga el led.
